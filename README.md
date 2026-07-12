@@ -1,4 +1,5 @@
 ## DQR-code
+[The img](dqrtest.png)
 This is a special Decimal Quick Response - Code that converges ascii binary like 11111111(8 bits) to 255(3 char)
 I made it because I personally think that QR Codes are slightly inefficient and based on my estimations, binary storage size goes from 2,953 B (23,648 bits considering err correction) determined by this equation\
 $bits = length^2$\
